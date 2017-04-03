@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../../../classes/com/sd/sort/v1/" main="" root="../../../classes/" work="../../../classes/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="com/sd/sort/v1/WeightSorterMainV1.java" package="" timestamp="27-Mar-2017 14:34:02">
+        <select from="374" to="374"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v1/Weight.java" package="com.sd.sort.v1" timestamp="27-Mar-2017 14:32:03">
+        <select from="374" to="374"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../lib/drjava-beta-20160913-225446.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
