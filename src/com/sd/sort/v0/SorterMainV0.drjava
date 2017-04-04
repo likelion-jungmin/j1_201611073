@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../v1/" main="" root="../../../../" work="../../../../">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="com/sd/sort/v0/SorterMainV0.java" package="com.sd.sort.v0" timestamp="28-Mar-2017 03:34:33">
+        <select from="1320" to="1320"/>
+        <scroll column="662" row="0"/>
+      </file>
+      <file name="com/sd/sort/v1/Weight.java" package="com.sd.sort.v1" timestamp="28-Mar-2017 03:25:26">
+        <select from="1320" to="1320"/>
+        <scroll column="662" row="0"/>
+      </file>
+      <file name="com/sd/sort/v1/WeightSorterMainV1.java" package="com.sd.sort.v1" timestamp="28-Mar-2017 03:26:26">
+        <select from="1320" to="1320"/>
+        <scroll column="662" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../lib/drjava-beta-20160913-225446.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

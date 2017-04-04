@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="" main="" root="../../../../" work="../../../../">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="com/sd/gui/CalcAreaListener.java" package="com.sd.gui" timestamp="28-Mar-2017 15:47:32">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/SorterMainV2.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:42:13">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/Sorter.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:43:31">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/Comparator.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:45:18">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/IntegerComparator.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:45:30">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/DateComparator.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:46:46">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/ReverseComparator.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:47:16">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/sort/v2/TurtleComparator.java" package="com.sd.sort.v2" timestamp="28-Mar-2017 03:49:52">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="com/sd/gui/CalcAreaGUIMain.java" package="com.sd.gui" timestamp="28-Mar-2017 15:32:31">
+        <select from="166" to="166"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../lib/drjava-beta-20160913-225446.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
